@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=34|Footprint Path0=210|Footprint Ref0=121|Library Path0=130|Library Ref0=77|PartType0=67|Descrition0=113
+BrowserOrder_Visible=ID0=34|Footprint Path0=364|Footprint Ref0=276|Library Path0=234|Library Ref0=225|PartType0=67|Descrition0=523|Value0=86|Resistance0=77|Tolerance0=73|Power Rating0=92|Capacitance0=85|Temperature Characteristic0=160|Voltage Rating0=100|Comment0=72|Manufacturer 10=168|Manufacturer Part Number 10=217|Supplier 10=75|Supplier Part Number 10=142|Datasheet0=973
 [FieldMap1]
 Options=FieldName=Sheet1$.ID|TableNameOnly=Sheet1$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
